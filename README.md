@@ -1,6 +1,6 @@
 # 🌍 World Food Programme (WFP) Supply Chain Analytics Dashboard
 
-![Executive Dashboard](Images/Dashboard_Page1.png)
+![Executive Dashboard](WFP-Supply-Chain-Analytics/Images/Dashboard_Page1.png)
 
 ## 📌 Project Overview
 
@@ -181,25 +181,25 @@ Focuses on logistics efficiency and delivery metrics.
 
 ## 🏠 Executive Dashboard
 
-![Executive Dashboard](Images/Dashboard_Page1.png)
+![Executive Dashboard](WFP-Supply-Chain-Analytics/Images/Dashboard_Page1.png)
 
 ---
 
 ## 🌍 Country Performance Analysis
 
-![Country Analysis](Images/Dashboard_Page2.png)
+![Country Analysis](WFP-Supply-Chain-Analytics/Images/Dashboard_Page2.png)
 
 ---
 
 ## 🏢 Vendor Performance Analysis
 
-![Vendor Analysis](Images/Dashboard_Page3.png)
+![Vendor Analysis](WFP-Supply-Chain-Analytics/Images/Dashboard_Page3.png)
 
 ---
 
 ## 🚚 Logistics & Delivery Performance Analysis
 
-![Logistics Analysis](Images/Dashboard_Page4.png)
+![Logistics Analysis](WFP-Supply-Chain-Analytics/Images/Dashboard_Page4.png)
 
 ---
 
@@ -282,7 +282,7 @@ Aspiring Data Analyst
 https://www.linkedin.com/in/rohit-gurjar-data
 
 **GitHub:**  
-(Add your GitHub profile link after creating your repository.)
+https://github.com/rohitgurjar-data/WFP-Supply-Chain-Analytics
 
 ---
 
