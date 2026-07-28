@@ -173,7 +173,6 @@ Focuses on logistics efficiency and delivery metrics.
 - Examined the relationship between shipment weight and freight cost.
 - Built an interactive dashboard to support logistics decision-making.
 
-> **Note:** Update these insights if your final analysis identifies specific countries or vendors as top performers.
 
 ---
 
