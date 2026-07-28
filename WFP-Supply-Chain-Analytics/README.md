@@ -173,7 +173,7 @@ Focuses on logistics efficiency and delivery metrics.
 - Examined the relationship between shipment weight and freight cost.
 - Built an interactive dashboard to support logistics decision-making.
 
-> **Note:** Update these insights if your final analysis identifies specific countries or vendors as top performers.
+
 
 ---
 
@@ -282,8 +282,7 @@ Aspiring Data Analyst
 https://www.linkedin.com/in/rohit-gurjar-data
 
 **GitHub:**  
-(Add your GitHub profile link after creating your repository.)
-
+https://github.com/rohitgurjar-data/WFP-Supply-Chain-Analytics
 ---
 
 ## ⭐ If you found this project helpful, please consider giving it a Star.
